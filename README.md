@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me:  
 
-- 🔭 Currently working on MERN Stack Projects.  
-- 🌱 Learning Python and JS UI libraries.  
+- 🔭 Currently working on MERN Stack and React-Native Projects.  
+- 🌱 Learning Node Js and JS UI libraries.  
 - 💬 Ask me about JavaScript, React, Node.js, TypeScript, and MongoDB.  
 
 ### GitHub Streak:  
